@@ -1,20 +1,6 @@
 # calendario-astronomico
 Calendario astronómico 2026 con imágenes del espacio y eventos celestes mes a mes.
-[index.html.html](https://github.com/user-attachments/files/26295334/index.html.html)
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Calendario Astronómico 2026 | Imágenes Mensuales</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
 
-    body {
       background: linear-gradient(145deg, #030617 0%, #050b1a 100%);
       font-family: 'Segoe UI', 'Poppins', 'Inter', system-ui, -apple-system, 'BlinkMacSystemFont', sans-serif;
       padding: 2rem 1.5rem;
